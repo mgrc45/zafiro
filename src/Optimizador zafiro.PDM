@@ -1,0 +1,243 @@
+[Root]
+Most Recent Package=Archivo .dep 1
+
+
+[Package|Suite Zafiro|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\new
+
+[Package|Suite Zafiro|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Suite Zafiro|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Suite Zafiro|Files Found]
+
+[Package|Suite Zafiro|Files Released]
+
+[Package|Suite Zafiro|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado25.tlb=
+
+[Package|Suite Zafiro|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM32\msstdfmt.dll=
+
+[Package|Suite Zafiro|Files Added]
+
+[Package|Suite Zafiro|Files Removed]
+
+[Package|Suite Zafiro|Files In Project]
+G:\proyecto\Optimizador Za\Nueva carpeta\Optimizador Zafiro2.exe=Yes
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado25.tlb=Yes
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM32\msstdfmt.dll=Yes
+C:\WINDOWS\SYSTEM32\STDFTES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCMCES.DLL=Yes
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM32\RCHTXES.DLL=Yes
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=Yes
+C:\WINDOWS\SYSTEM32\TABCTES.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM32\ADODCES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Suite Zafiro|Configure Registry Files]
+Applicable=No
+
+[Package|Suite Zafiro|Configure Remote Servers]
+Applicable=No
+
+[Package|Suite Zafiro|Install Locations]
+G:\proyecto\Optimizador Za\Nueva carpeta\Optimizador Zafiro2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\STDFTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\RCHTXES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\TABCTES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\ADODCES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Suite Zafiro|Configure Shared Files]
+Applicable=Yes
+G:\proyecto\Optimizador Za\Nueva carpeta\Optimizador Zafiro2.exe=No
+
+[Package|Suite Zafiro|Distribution]
+Type=single
+Size=
+Title=Suite Zafiro
+
+[Package|Suite Zafiro|IconGroups]
+Group0=Optimizador Zafiro
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Suite Zafiro|Optimizador Zafiro]
+Icon1="Optimizador Zafiro2.exe"
+Title1=Optimizador Zafiro
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Suite Zafiro|Package]
+PackageFolder=G:\new
+ProjectFolder=G:\proyecto\Optimizador Za
+ServerSideCab=
+File1=G:\new\setup.exe
+File2=G:\new\Setup.Lst
+File3=G:\new\Optimizador Zafiro2.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Archivo .dep 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=G:\new2
+
+[Package|Archivo .dep 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Archivo .dep 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Archivo .dep 1|Files Found]
+
+[Package|Archivo .dep 1|Files Released]
+
+[Package|Archivo .dep 1|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado25.tlb=
+
+[Package|Archivo .dep 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM32\msstdfmt.dll=
+
+[Package|Archivo .dep 1|Files Added]
+
+[Package|Archivo .dep 1|Files Removed]
+
+[Package|Archivo .dep 1|Files In Project]
+G:\proyecto\Optimizador Za\Nueva carpeta\Optimizador Zafiro2.exe=Yes
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado25.tlb=Yes
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM32\msstdfmt.dll=Yes
+C:\WINDOWS\SYSTEM32\STDFTES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCMCES.DLL=Yes
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM32\RCHTXES.DLL=Yes
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=Yes
+C:\WINDOWS\SYSTEM32\TABCTES.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM32\ADODCES.DLL=Yes
+
+[Package|Archivo .dep 1|Configure Registry Files]
+Applicable=No
+
+[Package|Archivo .dep 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Archivo .dep 1|Install Locations]
+G:\proyecto\Optimizador Za\Nueva carpeta\Optimizador Zafiro2.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\STDFTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\RCHTXES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\TABCTES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\ADODCES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Archivo .dep 1|Configure Shared Files]
+Applicable=Yes
+G:\proyecto\Optimizador Za\Nueva carpeta\Optimizador Zafiro2.exe=No
+
+[Package|Archivo .dep 1|Distribution]
+Type=single
+Size=
+Title=Suite Zafiro
+
+[Package|Archivo .dep 1|IconGroups]
+Group0=Optimizador Zafiro
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Archivo .dep 1|Optimizador Zafiro]
+Icon1="Optimizador Zafiro2.exe"
+Title1=Optimizador Zafiro
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Archivo .dep 1|DepFile]
+DepCabFile=Optimizador Zafiro2.CAB
+DepCabRun=Optimizador Zafiro2.INF
+DepCabURL=Prueba\Optimizacion_V2.mdb
+
+[Package|Archivo .dep 1|Package]
+PackageFolder=G:\new2
+ProjectFolder=G:\proyecto\Optimizador Za
+ServerSideCab=
+File1=G:\new2\Optimizador Zafiro2.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

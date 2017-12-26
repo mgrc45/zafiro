@@ -66,7 +66,7 @@ Pantalla principal > Explorador de códigos
 * [RegEnumKeyEx](http://msdn2.microsoft.com/en-us/library/ms724862.aspx) - Microsoft Developer Network
 * [RegDeleteValue](http://msdn2.microsoft.com/en-us/library/ms724851.aspx) - Microsoft Developer Network
 * [RegQueryValueEx](http://msdn2.microsoft.com/en-us/library/ms724911.aspx) - Microsoft Developer Network
-* [Manual técnico](SZAF10001.pdf) - Módulo de conexión al registro de sistema
+* [Manual técnico](add/SZAF10001.pdf) - Módulo de conexión al registro de sistema
 
 ## Contribuyendo
 
@@ -76,7 +76,7 @@ Por favor lea [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957
 
 * **Angel González** - *Trabajo inicial* - [mgrc45](https://github.com/mgrc45)
 
-Vea también la lista de [contribuyentes](https://github.com/mgrc45/zafiro/contributors) que participaron en este proyecto.
+Vea también la lista de [contribuyentes](contributors.md) que participaron en este proyecto.
 
 ## Licencia
 

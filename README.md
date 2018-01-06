@@ -70,7 +70,7 @@ Vea también la lista de [contribuyentes](contributors.md) que participaron en e
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más información.
+Este proyecto está licenciado bajo la licencia GNU General Public License v2.0. Consulte el archivo [LICENSE](LICENSE) para obtener más información.
 
 ## Capturas de pantalla
 <p>

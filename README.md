@@ -60,17 +60,17 @@ Pantalla principal > Explorador de códigos
 
 ## Contribuyendo
 
-Por favor lea [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obtener detalles sobre nuestro código de conducta y el proceso para enviarnos solicitudes de integración.
+Por favor lea [contribuyendo](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obtener detalles sobre nuestro código de conducta y el proceso para enviarnos solicitudes de integración.
 
 ## Autores
 
 * **Angel González** - *Trabajo inicial* - [mgrc45](https://github.com/mgrc45)
 
-Vea también la lista de [contribuyentes](contributors.md) que participaron en este proyecto.
+Vea también la lista de [contribuyentes](CONTRIBUTORS) que participaron en este proyecto.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia GNU General Public License v2.0. Consulte el archivo [LICENSE](LICENSE) para obtener más información.
+Este proyecto está licenciado bajo la licencia GNU General Public License v2.0. Consulte el archivo [licencia](LICENSE) para obtener más información.
 
 ## Capturas de pantalla
 <p>

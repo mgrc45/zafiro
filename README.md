@@ -55,17 +55,7 @@ Pantalla principal > Explorador de códigos
 * [MS ADO Data Control](https://msdn.microsoft.com/en-us/library/aa226568(v=vs.60).aspx) - Componente para la conexión a BD
 
 ## Referencias técnicas
-* [RegSetValueEx](http://msdn2.microsoft.com/en-us/library/ms724923.aspx) - Microsoft Developer Network
-* [RegQueryInfoKey](http://msdn2.microsoft.com/en-us/library/ms724902.aspx) - Microsoft Developer Network
-* [RegDeleteKeyEx](http://msdn2.microsoft.com/en-us/library/ms724847.aspx) - Microsoft Developer Network
-* [RegCreateKeyEx](http://msdn2.microsoft.com/en-us/library/ms724844.aspx) - Microsoft Developer Network
-* [RegDeleteKey](http://msdn2.microsoft.com/en-us/library/ms724845.aspx) - Microsoft Developer Network
-* [RegEnumValue](http://msdn2.microsoft.com/en-us/library/ms724865.aspx) - Microsoft Developer Network
-* [RegOpenKeyEx](http://msdn2.microsoft.com/en-us/library/ms724897.aspx) - Microsoft Developer Network
-* [RegCloseKey](http://msdn2.microsoft.com/en-us/library/ms724837.aspx) - Microsoft Developer Network
-* [RegEnumKeyEx](http://msdn2.microsoft.com/en-us/library/ms724862.aspx) - Microsoft Developer Network
-* [RegDeleteValue](http://msdn2.microsoft.com/en-us/library/ms724851.aspx) - Microsoft Developer Network
-* [RegQueryValueEx](http://msdn2.microsoft.com/en-us/library/ms724911.aspx) - Microsoft Developer Network
+* [Registry Reference](https://msdn.microsoft.com/en-us/library/ms724880.aspx) - Microsoft Developer Network
 * [Manual técnico](add/SZAF10001.pdf) - Módulo de conexión al registro de sistema
 
 ## Contribuyendo
